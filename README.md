@@ -1,4 +1,4 @@
-# AppliedDataScience_Spring2019
+# AppliedDataScience
 
 ML Projects with R (SVM,Regression, RandomForest, DecisionTree, KNN, AdaBoost, Ensemble)
 
